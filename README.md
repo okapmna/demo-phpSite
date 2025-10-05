@@ -1,2 +1,3 @@
 # Basic Git
-repositori ini digunakan untuk belajar git
+Repositori ini digunakan untuk belajar git
+
