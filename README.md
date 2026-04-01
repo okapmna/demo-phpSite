@@ -1,6 +1,5 @@
-# Basic Git
-Repositori ini digunakan untuk belajar git
-Ini adalah commit kedua yang sudah saya lakukan
+# demo-phpSite
+Repositori ini digunakan untuk melakukan demo setup php dan nginx
 
 
 <details>
